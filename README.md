@@ -1,4 +1,4 @@
-This is a simple Flask app that uses OpenWeather's API to get the weather of a location
+This is a simple Flask app that uses OpenWeatherMap API to show weather.
 
 Open Terminal and type in the following commands (don't include the dollar signs)
 
@@ -13,3 +13,7 @@ $ source venv/bin/activate // venv/Scripts/activate for windows
 $ pip3 install -r requirements.txt
 
 $ python3 weather_app.py
+
+On a web browser, go to the following link:
+
+http://127.0.0.1:5000/city?q=any_city_name
