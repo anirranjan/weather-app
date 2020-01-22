@@ -1,3 +1,5 @@
+This is a simple Flask app that uses OpenWeather's API to get the weather of a location
+
 Open Terminal and type in the following commands (don't include the dollar signs)
 
 $ git clone https://github.com/n2akilan456/weather-app.git
