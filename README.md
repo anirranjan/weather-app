@@ -1,6 +1,6 @@
 This is a simple Flask app that uses OpenWeatherMap API to show weather.
 
-Open Terminal and type in the following commands (don't include the dollar signs)
+Using this repository
 
 ```
 $ git clone https://github.com/n2akilan456/weather-app.git
