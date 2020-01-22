@@ -6,7 +6,7 @@ Using this repository
 $ git clone https://github.com/n2akilan456/weather-app.git
 $ cd weather-app
 $ python3 -m venv venv
-$ source venv/bin/activate // venv\Scripts\activate for windows
+$ source venv/bin/activate // .\venv\Scripts\activate for Windows
 $ pip3 install -r requirements.txt
 $ python3 weather_app.py
 ```
