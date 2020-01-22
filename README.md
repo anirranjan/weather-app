@@ -17,3 +17,5 @@ $ python3 weather_app.py
 On a web browser, go to the following link:
 
 http://127.0.0.1:5000/city?q=any_city_name
+
+Note: replace any_city_name with a city of your choice.
