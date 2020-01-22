@@ -4,7 +4,7 @@ Open Terminal and type in the following commands (don't include the dollar signs
 
 $ git clone https://github.com/n2akilan456/weather-app.git
 
-$ cd weather-api
+$ cd weather-app
 
 $ python3 -m venv venv
 
