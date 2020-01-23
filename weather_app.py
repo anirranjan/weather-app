@@ -21,7 +21,7 @@ def search_city():
     #get current temperature and convert it into Fahrenheit
     current_temperature = response.get('main', {}).get('temp')
     if current_temperature:
-        current_temperature_fahrenheit = round(current_temperature * 9/5 - 459.67, 2)
+        current_temperature_fahrenheit = round(current_temperature * 9/5 - 459.67, 0)
         return f'Current temperature of {city.title()} is {current_temperature_fahrenheit} &#8457;'
     else :
         return f'Error getting temperature for {city.title()}'         
